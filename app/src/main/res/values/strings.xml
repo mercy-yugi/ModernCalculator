@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernCalculator</string>
+    <string name="second_num">Second num..</string>
+    <string name="first_num">First num..</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="modulus">%</string>
+    <string name="divide">/</string>
+    <string name="output">The output is:</string>
+</resources>
